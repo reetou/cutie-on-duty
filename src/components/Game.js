@@ -78,7 +78,7 @@ class Game extends Component {
               </div>
               <img
                 role='presentation'
-                src={ process.env.PUBLIC_URL + 'img/mobs/' + mob + '.png' }
+                src={ process.env.PUBLIC_URL + '/img/mobs/' + mob + '.png' }
               />
             </div>
           </div>
